@@ -1,6 +1,6 @@
 # Weather app api
 
-**Api for my [weather app server](https://github.com/MichalUSER/weather-server-ts)**
+**Simple api for my [rest api server](https://github.com/MichalUSER/weather-server-ts)**
 
 ## Todo
 
