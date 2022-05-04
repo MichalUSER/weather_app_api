@@ -1,9 +1,12 @@
 [package]
 name = "weather_api"
+description = "A Simple api for my rest api server"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/MichalUSER/weather_app_api"
+readme = "README.md"
+keywords = ["http", "client", "api", "json"]
+license = "MIT"
 
 [lib]
 doctest = false
