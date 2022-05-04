@@ -1,7 +1,7 @@
 use chrono::prelude::*;
 use chrono::Duration;
 
-mod types;
+pub mod types;
 
 use crate::types::{Average, Temp};
 
